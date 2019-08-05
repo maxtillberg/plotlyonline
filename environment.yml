@@ -1,4 +1,4 @@
 name: environment
 dependencies:
   - plotly
-  - pandas
+  - conda
