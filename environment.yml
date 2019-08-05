@@ -1,6 +1,4 @@
-name: example-environment
-channels:
-  - conda-forge
+name: environment
 dependencies:
   - plotly
   - pandas
