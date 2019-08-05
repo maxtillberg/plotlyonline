@@ -1,4 +1,1 @@
-# plotlyonline
-Länk:
-https://hub.gke.mybinder.org/user/maxtillberg-plotlyonline-alt4g601/tree
-https://hub.gke.mybinder.org/user/maxtillberg-plotlyonline-alt4g601/notebooks/desk2.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxtillberg/plotlyonline/master)
